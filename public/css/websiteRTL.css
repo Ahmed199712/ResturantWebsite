@@ -1,0 +1,26 @@
+*
+{
+
+}
+
+body
+{
+	text-align: right;
+	direction: rtl;
+}
+
+.navbar-laravel
+{
+	direction: none;
+}
+
+label
+{
+	text-align: right;
+}
+
+.dropdown-menu.profile a
+{
+	text-align: right;
+}
+
